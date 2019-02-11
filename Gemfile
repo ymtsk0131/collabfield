@@ -21,6 +21,7 @@ gem 'bootstrap-sass'
 gem 'bootstrap_form'
 gem 'webpacker', github: 'rails/webpacker'
 gem 'devise'
+gem 'faker'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
